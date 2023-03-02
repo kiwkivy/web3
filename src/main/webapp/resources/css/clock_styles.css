@@ -1,0 +1,12 @@
+body {
+  grid-template-areas: 'header'
+                       'clock';
+}
+
+.clock_time{
+    color: #446a12;
+}
+
+
+
+
